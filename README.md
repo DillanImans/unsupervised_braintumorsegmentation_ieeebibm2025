@@ -4,7 +4,9 @@
   <img src="mainfig_bibm.jpg" alt="SAM-RefiSeR Overview" width="700"/>
 </p>
 
-This repository contains the research code for the paper **“Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation”**, accepted at **IEEE BIBM 2025**. Link:  https://ieeexplore.ieee.org/document/11357079.
+This repository contains the research code for the paper **“Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation”**, accepted at **IEEE BIBM 2025**. 
+
+Paper Link:  https://ieeexplore.ieee.org/document/11357079.
 
 
 ## Overview
